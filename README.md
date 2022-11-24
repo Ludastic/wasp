@@ -6,7 +6,7 @@
 
 Название          | Статус |Ссылка
 ------------------|--------|--------
-Домашка 1         | 🟢    | <a href="https://github.com/Ludastic/wasp/tree/main/homework-1">Перейти</a>
+Дз 1              | 🟢    | <a href="https://github.com/Ludastic/wasp/tree/main/homework-1">Перейти</a>
 Автопарк          | 🟡    | <a href="https://github.com/Ludastic/wasp/tree/main/AutoPark">Перейти</a>
 
 **Статусы выполнения:** <br>
