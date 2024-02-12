@@ -5,7 +5,7 @@ static class main
     public static void Main(String[] args)
     {
         Dictionary<int, string> carrgolist = new Dictionary<int, string>();
-        carrgolist.Add(0, "едаaaa");
+        carrgolist.Add(0, "еда");
         carrgolist.Add(1, "не еда");
         carrgolist.Add(2, "что-то еще");
         carrgolist.Add(3, "фантазия");
