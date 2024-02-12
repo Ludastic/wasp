@@ -40,7 +40,7 @@ public class Car
     {
         set
         {
-            if (value < 1900)
+            if (value < 1800)
             {
                 _prodY = 1900;
             }
