@@ -7,7 +7,7 @@
 Название          | Статус |Ссылка
 ------------------|--------|--------
 Дз 2              | 🟢    | <a href="https://github.com/Ludastic/wasp/tree/main/homework-1">Перейти</a>
-Автопарк          | 🟡    | <a href="https://github.com/Ludastic/wasp/tree/main/AutoPark">Перейти</a>
+Автопарккк        | 🟡    | <a href="https://github.com/Ludastic/wasp/tree/main/AutoPark">Перейти</a>
 Музыкальный магаз | 🟡    | <a href="https://github.com/Ludastic/wasp/tree/main/MusicShop">Перейти</a>
 
 **Статусы выполнения:** <br>
